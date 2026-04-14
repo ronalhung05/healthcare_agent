@@ -1,0 +1,12 @@
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
+gradio
+folium
+openai
+transformers
+sentencepiece
+accelerate
+
